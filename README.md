@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**MoisesAAG/MoisesAAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# HOLA SOY MOISES AARON ALATORRE GARCIA👋
+## Sobre mi
+- 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica
+- 📍 Soy de manzanillo
+- 🌱 Actualmente estoy aprendiendo Git, Python, UML ,ect.
+- 🎯 Mi meta es lograr mejorar para conseguir un buen trabajo en el área ,para vivir tranquilo y haciendo lo que me gusta
+- ## Mis intereses
+- la tecnologia 🖥️
+- los videojuegos 🎮
+- la animacion 🎬
+## Contacto
+- malatorre0@ucol.mx
